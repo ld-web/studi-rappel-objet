@@ -1,0 +1,16 @@
+{
+  "name": "lucas/studi-point-oop",
+  "description": "Point sur la POO pour Studi",
+  "authors": [
+    {
+      "name": "Lucas",
+      "email": "lucas@ld-web.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
